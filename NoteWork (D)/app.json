@@ -1,0 +1,16 @@
+
+{
+  "expo": {
+   "name": "Your Note Work",
+   "icon": "./components/iconapp.png",
+   "version": "1.0.0",
+   "slug": "Your-Note-Work",
+   "sdkVersion": "30.0.0",
+   "ios": {
+     "bundleIdentifier": "com.BayuPutra.YourNoteWork"
+   },
+   "android": {
+     "package": "com.BayuPutra.YourNoteWork"
+   }
+  }
+}
